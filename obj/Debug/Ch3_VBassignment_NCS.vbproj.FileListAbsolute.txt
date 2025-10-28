@@ -1,0 +1,11 @@
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.vbproj.AssemblyReference.cache
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.Resources.resources
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.vbproj.GenerateResource.cache
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.vbproj.CoreCompileInputs.cache
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\bin\Debug\Ch3_VBassignment_NCS.exe.config
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\bin\Debug\Ch3_VBassignment_NCS.exe
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\bin\Debug\Ch3_VBassignment_NCS.pdb
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\bin\Debug\Ch3_VBassignment_NCS.xml
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.exe
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.xml
+C:\Users\nsimo\source\repos\Ch3_VBassignment_NCS\obj\Debug\Ch3_VBassignment_NCS.pdb
